@@ -1,4 +1,4 @@
-<a href="https://cart-using-redux-react.vercel.app/">Click to check Deployment</a>
+<a href="https://cart-using-redux-react.vercel.app/" target="_blank">Click to check Deployment</a>
 
 # Getting Started with Create React App
 
